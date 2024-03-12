@@ -1,0 +1,2 @@
+# ITGstore-Theme
+theme wordpress
